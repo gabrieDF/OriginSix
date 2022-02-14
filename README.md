@@ -1,9 +1,9 @@
 # 💻 OriginSix
 Projeto desenvolvido no evento da rocketseat, NLW originSix.
 
-<h1 align="center">
-  <img alt="beautysalon" title="beautysalon" src="https://github.com/gustavodev1998/OriginSix-RocketSeat/blob/main/assets/fonts/fotos/beautySaloon_Homepage.png" width="620px" />
-</h1>
+##
+ ![originSix](https://user-images.githubusercontent.com/91755560/153951899-ed8b4ad7-5008-469a-9173-856d4deec231.png)
+##
 
 ## 🚀 Personal Information
 
