@@ -13,6 +13,5 @@ Este projeto tem o intuito de melhorar as minhas habilidades em programação, d
 - JavaScript
 
 ## 🔖 Layout
-Acessa o site: https://gabrieDF.github.io/OriginSix/
-
+Acessa o site:  https://gabriedf.github.io/OriginSix/
 ---
